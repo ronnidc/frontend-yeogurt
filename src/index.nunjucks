@@ -1,0 +1,15 @@
+{% extends '_layouts/base.nunjucks' %}
+
+
+{% import "_modules/atoms/title/title.nunjucks" as title %}
+
+
+{% block content %}
+
+<div class="main-container">
+
+  {{title.content({class: 'title title--type1'})}}
+  
+</div>
+
+{% endblock %}
