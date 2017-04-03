@@ -5,8 +5,7 @@ Generated on 2017-04-03 using
 
 ## Description
 
-This is an example readme file.
-Describe your site/app here.
+This is a modular frontend aproach for building frontend modules for websites taking the *atomic design systems* and *ITCSS* approach
 
 ## Technologies used
 
