@@ -1,5 +1,7 @@
 # Frontend Yeogurt Readme
 
+*Archived April 25. 2023. Outdated*
+
 Generated on 2017-04-03 using
 [generator-yeogurt@2.0.0](https://github.com/larsonjj/generator-yeogurt)
 
